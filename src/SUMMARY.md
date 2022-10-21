@@ -1,0 +1,18 @@
+# iOS逆向开发：砸壳ipa
+
+* [前言](README.md)
+* [砸壳ipa概览](crack_shell_overview/README.md)
+* [常见砸壳工具](crack_tools/README.md)
+  * [frida-ios-dump](crack_tools/frida_ios_dump.md)
+  * [dumpdecrypted](crack_tools/dumpdecrypted.md)
+  * [Clutch](crack_tools/clutch.md)
+  * [bfinject](crack_tools/bfinject.md)
+* [砸壳实例](crack_example/README.md)
+  * [frida-ios-dump](crack_example/frida_ios_dump/README.md)
+    * [YouTube的ipa](crack_example/frida_ios_dump/youtube.md)
+    * [抖音的ipa](crack_example/frida_ios_dump/aweme.md)
+* [砸壳后](after_ipa/README.md)
+  * [安装ipa](after_ipa/install_ipa.md)
+* [砸壳常见问题](common_issue/README.md)
+* [附录](appendix/README.md)
+  * [参考资料](appendix/reference.md)

@@ -1,0 +1,19 @@
+{
+  "title": "iOS逆向开发：砸壳ipa",
+  "description": "介绍iOS逆向中的砸壳脱壳出ipa方面的内容。主要包括什么是壳，为何要砸壳，常见砸壳工具，比如frida-ios-dump、dumpdecrypted、clutch等；以及举例介绍如何用frida-ios-dump砸壳YouTube、抖音等app得到ipa文件；以及砸壳出iap后的事情，包括ipa的安装；以及整理常见的问题及解决办法。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "ios_re_crack_shell_ipa"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.org/books/ios_re_crack_shell_ipa/website/"
+    },
+    "toolbar-button": {
+      "url": "https://book.crifan.org/books/ios_re_crack_shell_ipa/pdf/ios_re_crack_shell_ipa.pdf"
+    }
+  }
+}
