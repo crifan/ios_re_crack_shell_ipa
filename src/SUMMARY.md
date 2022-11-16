@@ -11,6 +11,7 @@
   * [frida-ios-dump](crack_example/frida_ios_dump/README.md)
     * [YouTube的ipa](crack_example/frida_ios_dump/youtube.md)
     * [抖音的ipa](crack_example/frida_ios_dump/aweme.md)
+    * [TikTok的ipa](crack_example/frida_ios_dump/tiktok.md)
 * [砸壳后](after_ipa/README.md)
   * [安装ipa](after_ipa/install_ipa.md)
 * [砸壳常见问题](common_issue/README.md)

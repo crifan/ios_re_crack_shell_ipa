@@ -6,3 +6,4 @@ TODO：
 
 * 【已解决】iOS版抖音的砸壳脱壳
 * 【已解决】Mac中用frida-ios-dump给iOS版抖音脱壳出ipa
+* 【已解决】用frida-ios-dump给17.8.0版本抖音砸壳ipa
