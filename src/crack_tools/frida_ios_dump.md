@@ -52,9 +52,20 @@
 ## 使用=砸壳
 
 * 概述
-  ```bash
-  ./dump.py iOSAppPackageOriOSAppName
-  ```
+  * 查看app包名或app名称
+    * 方式1：`frida-ps`
+      ```bash
+      frida-ps -Uai
+      ```
+    * 方式2：`ideviceinstaller`
+      ```bash
+      ideviceinstaller -l -o list_user
+      ```
+  * 开始砸壳
+    * 命令
+      ```bash
+      ./dump.py iOSAppPackageOriOSAppName
+      ```
     * 举例
       ```bash
       ./dump.py com.zhiliaoapp.musically

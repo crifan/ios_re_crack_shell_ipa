@@ -14,6 +14,7 @@
 * [iOS逆向开发：iPhone越狱](http://book.crifan.org/books/ios_re_iphone_jailbreak/website)
 * [安装Frida · 逆向调试利器：Frida](https://book.crifan.org/books/reverse_debug_frida/website/install_upgrade/install_frida.html)
 *  
+* [frida-ps | Frida • A world-class dynamic instrumentation toolkit](https://frida.re/docs/frida-ps/)
 * [[iOS]判断ipa是否脱壳_风浅月明的博客-CSDN博客_ipa脱壳](https://blog.csdn.net/wsyx768/article/details/124691420)
 * [[iOS逆向]18、砸壳 - 简书 (jianshu.com)](https://www.jianshu.com/p/d2c5e5388d60)
 * [十、iOS逆向之《越狱砸壳/ipa脱壳》 - 简书 (jianshu.com)](https://www.jianshu.com/p/1991854c65af)
