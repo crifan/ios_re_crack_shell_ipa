@@ -33,7 +33,7 @@
 * 再去安装依赖的其他的库
   * 直接用官网的依赖文件`requirements.txt`去安装
     ```bash
-    sudo pip install -r requirements.txt --upgrade
+    sudo pip install -r requirements.txt
     ```
   * 或已知需要哪些库，手动安装
     ```bash

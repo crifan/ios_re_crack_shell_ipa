@@ -17,7 +17,7 @@ iOS中的app，发布渠道一般都是`App Store`。
 而加密后的`ipa`包，是无法继续后续的逆向过程的
 
 * 后续的典型的逆向过程是
-  * 用`IDA`/`Hooper`等去`反编译`
+  * 用`IDA`/`Hopper`等去`反编译`
   * 用`class-dump`等去`导出头文件`
     * 说明
       * `class-dump`直接去导出，未砸壳的，`App Store`上的二进制的话
