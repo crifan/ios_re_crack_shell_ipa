@@ -19,7 +19,7 @@
   ➜  Aweme.app otool -l Aweme | grep crypt
       cryptoff 28672
       cryptsize 4096
-        cryptid 0
+        cryptid 1
   ```
 * 砸壳后的抖音的ipa中的二进制文件`Aweme`：已解密
 ```bash
@@ -28,5 +28,5 @@ xxx/Aweme抖音/iPhone7-137black/Aweme.app
 ➜  Aweme.app otool -l Aweme | grep crypt
      cryptoff 28672
     cryptsize 4096
-      cryptid 1
+      cryptid 0
 ```
