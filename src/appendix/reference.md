@@ -10,6 +10,9 @@
 * 【已解决】iPhone中Cydia中安装升级最新版的16.0.2的Frida
 * 【已解决】frida-ios-dump砸壳报错：ModuleNotFoundError No module named frida
 * 【已解决】iOS的二进制用otool看不到crypt以及MachOView看不到LC_ENCRYPTION_INFO_64字段
+* 【已解决】frida-ios-dump砸壳抖音卡死无进度：0.00B 00:00
+* 【已解决】脱壳后抖音app启动就崩溃闪退
+* 【已解决】砸壳后抖音ipa安装失败：DeviceNotSupportedByThinning
 * 
 * [iOS逆向开发：iPhone越狱](http://book.crifan.org/books/ios_re_iphone_jailbreak/website)
 * [安装Frida · 逆向调试利器：Frida](https://book.crifan.org/books/reverse_debug_frida/website/install_upgrade/install_frida.html)
@@ -20,4 +23,5 @@
 * [十、iOS逆向之《越狱砸壳/ipa脱壳》 - 简书 (jianshu.com)](https://www.jianshu.com/p/1991854c65af)
 * [iOS逆向：App脱壳/ipa破解-华盟网 (77169.net)](https://www.77169.net/html/28064.html)
 * [iOS逆向攻防实战 - 掘金 (juejin.cn)](https://juejin.cn/post/7073109091320610829)
+* [Models - The iPhone Wiki](https://www.theiphonewiki.com/wiki/Models)
 * 

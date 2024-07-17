@@ -15,5 +15,8 @@
 * [砸壳后](after_ipa/README.md)
   * [安装ipa](after_ipa/install_ipa.md)
 * [砸壳常见问题](common_issue/README.md)
+  * [无进度 0.00B 00:00](common_issue/no_progress_0_00b.md)
+  * [DeviceNotSupportedByThinning](common_issue/devicenotsupportedbythinning.md)
+  * [app启动后崩溃](common_issue/crash_after_start.md)
 * [附录](appendix/README.md)
   * [参考资料](appendix/reference.md)

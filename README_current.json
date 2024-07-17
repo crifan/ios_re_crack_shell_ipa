@@ -1,6 +1,6 @@
 {
-  "latestVersion": "v0.9.2",
-  "lastUpdate": "20231213",
+  "latestVersion": "v1.0.0",
+  "lastUpdate": "20240717",
   "gitRepoName": "ios_re_crack_shell_ipa",
   "bookName": "iOS逆向开发：砸壳ipa",
   "bookDescription": "介绍iOS逆向中的砸壳脱壳出ipa方面的内容。主要包括什么是壳，为何要砸壳，常见砸壳工具，比如frida-ios-dump、dumpdecrypted、clutch等；以及举例介绍如何用frida-ios-dump砸壳YouTube、抖音等app得到ipa文件；以及砸壳出iap后的事情，包括ipa的安装；以及整理常见的问题及解决办法。"
