@@ -62,6 +62,9 @@
       ideviceinstaller -l -o list_user
       ```
   * 开始砸壳
+    * 准备工作
+      * 最好先手动启动app
+        * 有时候，没有手动启动app，倒也是可以正常工作，但有时候不行
     * 命令
       ```bash
       ./dump.py iOSAppPackageOriOSAppName

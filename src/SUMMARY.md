@@ -15,6 +15,7 @@
 * [砸壳后](after_ipa/README.md)
   * [安装ipa](after_ipa/install_ipa.md)
 * [砸壳常见问题](common_issue/README.md)
+  * [timeout was reached](common_issue/timeout_reached.md)
   * [无进度 0.00B 00:00](common_issue/no_progress_0_00b.md)
   * [DeviceNotSupportedByThinning](common_issue/devicenotsupportedbythinning.md)
   * [app启动后崩溃](common_issue/crash_after_start.md)
