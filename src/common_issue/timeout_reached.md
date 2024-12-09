@@ -5,10 +5,10 @@
 有时候，运行`./dump.py xxx`时，卡死在：`Start the target app xxx`，过了会，报错：超时了
 
 ```bash
-➜  frida-ios-dump git:(master) python3 ./dump.py com.konasl.bdpost.nagad
+➜  frida-ios-dump git:(master) python3 ./dump.py com.xxx.yyy.zzz
 /Users/crifan/dev/dev_src/_reverse_security/ios_reverse/AloneMonkey/frida-ios-dump/./dump.py:340: SyntaxWarning: invalid escape sequence '\.'
   output_ipa = re.sub('\.ipa$', '', output_ipa)
-Start the target app com.konasl.bdpost.nagad
+Start the target app com.xxx.yyy.zzz
 timeout was reached
 ```
 
